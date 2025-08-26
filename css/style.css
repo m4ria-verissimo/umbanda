@@ -87,4 +87,10 @@ img{
   .voltar:hover{
     background-color: #e9e6da;
   }
- 
+
+.container{
+    text-align: center;
+}  
+ .container img{
+    display: inline-block;
+ }
