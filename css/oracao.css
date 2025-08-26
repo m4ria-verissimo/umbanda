@@ -45,7 +45,8 @@
   border-radius: 8px;
   text-decoration: none;
   font-weight: bold;
-  font-size: 1em;}
+  font-size: 1em;
+position:fixed;}
 
   .voltar:hover{
     background-color: #e9e6da;
