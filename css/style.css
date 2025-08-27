@@ -26,12 +26,15 @@ a{
     text-decoration: none;
     color:black
 }
-.oracao, .pt , .sincre, .anjo{
+.oracao, .pt , .sincre, .anjo , .defumacao{
     border: 1px solid;
     padding: 3%;
     font-size: 1.5em;
     background:#E0C290 ;
    
+}
+.defumacao:hover{
+    background-color: #FFF8DC;
 }
  .pt:hover{
     background-color: #FFF8DC;
@@ -94,3 +97,8 @@ img{
  .container img{
     display: inline-block;
  }
+ iframe{
+      margin-left: 10%;
+ }
+  
+ 
