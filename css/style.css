@@ -29,7 +29,7 @@ a{
     text-decoration: none;
     color:black
 }
-.oracao, .pt , .sincre, .anjo , .defumacao{
+.oracao, .pt , .sincre, .anjo , .defumacao , .olorum{
     border: 1px solid;
     padding: 3%;
     font-size: 1.5em;
@@ -50,6 +50,9 @@ a{
 }
 .anjo:hover{
     background:#FFF8DC ;
+}
+.olorum:hover{
+    background: #FFF8DC;
 }
  h1, h2, h3 {
       color: #B5A16A;
